@@ -1,0 +1,68 @@
+body {
+  background-color: #3a4a58;
+  color: #8c8c8c;
+  margin: 30px 350px;
+  font-family: "Times New Roman", Times, serif; }
+
+section {
+  background-color: #ffffff;
+  color: #8c8c8c; }
+
+h1 > i {
+  margin: 10px 10px; }
+
+h1 {
+  color: #d6cfcf; }
+
+h2 {
+  color: #b08554; }
+
+.coffemenu, th, td {
+  text-align: center;
+  margin: auto;
+  font-size: 25px; }
+
+td {
+  width: 24%; }
+
+td:nth-child(1) {
+  text-align: left; }
+
+tr:nth-child(1) {
+  background-color: #c4cdd6; }
+
+tr:nth-child(2) {
+  background-color: #ffa033; }
+
+tr:nth-child(3) {
+  background-color: #ffac4d; }
+
+tr:nth-child(4) {
+  background-color: #ffb866; }
+
+tr:nth-child(5) {
+  background-color: #ffc480; }
+
+tr:nth-child(6) {
+  background-color: #ffcf99; }
+
+tr:nth-child(7) {
+  background-color: #ffdbb3; }
+
+tr:nth-child(8) {
+  background-color: #ffe7cc; }
+
+tr:nth-child(9) {
+  background-color: #fff3e6; }
+
+section[name='aboutUs'] i {
+  margin: 10px;
+  color: #b08554; }
+
+section[name='aboutUs'] i:hover {
+  color: #f3870c; }
+
+section > h1 {
+  color: #b08554; }
+
+/*# sourceMappingURL=style.css.map */
